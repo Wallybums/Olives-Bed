@@ -6,14 +6,40 @@
             "x": 0,
             "y": 0,
             "uniqueID": 554007,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Input975537",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 0.22035139092240116,
+                    "y": 0.308,
+                    "uniqueID": 487026,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Input975537",
+                    "x": 0.2686676427525622,
+                    "y": 0.45599999999999996,
+                    "uniqueID": 314352,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
+                    "x": 0.884333821376281,
+                    "y": 0.52,
                     "ioValues": []
                 }
             ],
